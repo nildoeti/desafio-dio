@@ -40,5 +40,5 @@ var b = parseFloat(gets());
 //TODO: Complete os espaços em branco com uma possível solução para o desafio
 
 
-var media = (((a * 3.5) + (b * 7.5)) / 11) ;
+var media = (((a * 3.5) + (b * 7.5)) / 11);
 console.log("MEDIA = " + media.toFixed(5));
