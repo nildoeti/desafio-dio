@@ -44,5 +44,5 @@ var raio = parseFloat(gets());
 
 //TODO: Complete os espaços em branco com uma possível solução para o desafio
 
-var area =  TT  *  Math.pow(raio ,2);
+var area = TT * Math.pow(raio, 2);
 print("A=" + area.toFixed(4) + '\n');
